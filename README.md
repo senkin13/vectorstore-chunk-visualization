@@ -20,7 +20,7 @@ The following steps outline the accelerator workflow.
 
 
 ## Select a chatbot and click start:
-![Select a chatbot and click start](select_bot.png)
+![Select a chatbot and click start](upload_document.png)
 
 ## Chat through the text or voice input via the microphone button:
 ![Chat through the text or voice input via the microphone button](chat_input.png)

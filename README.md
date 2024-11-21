@@ -8,7 +8,7 @@ This AI Accelerator demonstrates how to implement a Streamlit application to gai
 
 ## Accelerator overview
 
-The following steps outline the accelerator workflow.
+The following steps outline the accelerator workflow.If you have errors refresh browser and click button again always can solve network or azure api issues.
 
 ## From nextgen->registry->application, build a streamlit application.
 ![add_app_source](add_app_source.png)

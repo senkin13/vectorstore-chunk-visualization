@@ -11,26 +11,26 @@ This AI Accelerator demonstrates how to implement a Streamlit application to gai
 The following steps outline the accelerator workflow.If you have errors refresh browser and click button again always can solve network or azure api issues.
 
 ## From nextgen->registry->application, build a streamlit application.
-![add_app_source](add_app_source.png)
-![build_env](build_env.png)
-![build_source](build_source.png)
-![add_credential](add_credential.png) 
-![runtime_parameters](runtime_parameters.png)
+![add_app_source](image/add_app_source.png)
+![build_env](image/build_env.png)
+![build_source](image/build_source.png)
+![add_credential](image/add_credential.png) 
+![runtime_parameters](image/runtime_parameters.png)
 
 ## Upload document to build vectorstore on datarobot.
-![upload_document](upload_document.png)
+![upload_document](image/upload_document.png)
 
 ## Build summary of cluster by Azure OpenAI service.
-![cluster_summary](cluster_summary.png)
+![cluster_summary](image/cluster_summary.png)
 
 ## Build summary of chunk by Azure OpenAI service.
-![chunk_summary](chunk_summary.png)
+![chunk_summary](image/chunk_summary.png)
 
 ## Select how many clusters of chunk.
-![cluster_number](cluster_number.png)
+![cluster_number](image/cluster_number.png)
 
 ## View the summaries of cluster and chunk.
-![cluster_summary_text](cluster_summary_text.png)
-![chunk_summary_text](chunk_summary_text.png)
+![cluster_summary_text](image/cluster_summary_text.png)
+![chunk_summary_text](image/chunk_summary_text.png)
 
 

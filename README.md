@@ -14,8 +14,8 @@ The following steps outline the accelerator workflow.
 ![add_app_source](add_app_source.png)
 ![build_env](build_env.png)
 ![build_source](build_source.png)
-![add_credential](add_credential.png)
-![runtime_parameters](runtime_parameters.png)
+![add_credential](add_credential.png) ![runtime_parameters](runtime_parameters.png)
+
 
 <b>Step 2 (optional)</b> Deploy multiple models if needed. Update the deployment ID's in the code.
 

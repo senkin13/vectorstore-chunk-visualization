@@ -8,11 +8,14 @@ This AI Accelerator demonstrates how to implement a Streamlit application to gai
 
 ## Accelerator overview
 
-This accelerator requires a genAI project [built and deployed](https://docs.datarobot.com/en/docs/gen-ai/deploy-llm.html) on DataRobot.
-
 The following steps outline the accelerator workflow.
 
-<b>Step 1</b> From playground, [register and deploy](https://docs.datarobot.com/en/docs/gen-ai/deploy-llm.html) a genAI model.
+<b>Step 1</b> From nextgen->registry->application, build a streamlit application.
+![add_app_source](add_app_source.png)
+![build_env](build_env.png)
+![build_source](build_source.png)
+![add_credential](add_credential.png)
+![runtime_parameters](runtime_parameters.png)
 
 <b>Step 2 (optional)</b> Deploy multiple models if needed. Update the deployment ID's in the code.
 
